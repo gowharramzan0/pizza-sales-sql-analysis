@@ -95,12 +95,9 @@ The database `pizzahut` contains four tables:
 
 ## Screenshots
 
-> Replace the file names below with your own screenshots from the `screenshots` folder.
-
-![Total orders](screenshots/01_total_orders.png)
-![Top 5 pizzas](screenshots/05_top5_pizzas.png)
-![Revenue by category](screenshots/11_revenue_percentage.png)
-![Cumulative revenue](screenshots/12_cumulative_revenue.png)
+![Total orders](Screenshots of queries and results/Results/Retrieve the total number of orders placed.png)
+![Top 5 pizzas](Screenshots of queries and results/Results/List the top 5 most ordered pizza types along with their quantities.png)
+![Cumulative revenue](Screenshots of queries and results/Results/Analyze the cumulative revenue generated over time.png)
 
 ---
 
