@@ -17,7 +17,7 @@ Understand how the business is performing by finding out:
 ---
 
 ## Dataset
-
+The dataset was taken from the guided project from WsCubeTech.
 The database `pizzahut` contains four tables:
 
 | Table | Description |
