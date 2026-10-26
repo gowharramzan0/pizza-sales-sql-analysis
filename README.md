@@ -129,4 +129,4 @@ pizza-sales-sql-analysis/
 ## Author
 
 **Gowhar**
-🔗 LinkedIn: [add your profile link here]
+🔗 LinkedIn: [www.linkedin.com/in/gowharhussain]
