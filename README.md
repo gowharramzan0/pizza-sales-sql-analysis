@@ -93,14 +93,6 @@ The database `pizzahut` contains four tables:
 
 ---
 
-## Screenshots
-
-![Total orders](Screenshots of queries and results/Results/Retrieve the total number of orders placed.png)
-![Top 5 pizzas](Screenshots of queries and results/Results/List the top 5 most ordered pizza types along with their quantities.png)
-![Cumulative revenue](Screenshots of queries and results/Results/Analyze the cumulative revenue generated over time.png)
-
----
-
 ## Repository Structure
 
 ```
